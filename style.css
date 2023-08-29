@@ -1,0 +1,24 @@
+h1{
+    background-color: rgb(255, 0, 13);
+    text-align: center;
+    border: 5px rgb(36, 14, 235) solid;
+    margin-left: 0%;
+    margin-top: 0%;
+}
+h1.one { background-color: aqua;
+}
+h1.two {border-color: black;
+background-color: blueviolet;}
+
+h1.three { font-family: 'Courier New', Courier, monospace;
+    background-color: yellow;
+}
+h2 {
+    color: #ee3e80;}
+    p { background-color: #ee3e80;
+    color: #6811da;}
+
+    p.one {font-family: arial;
+    background-color: rgb(185,179,175);
+color: aquamarine;
+}
